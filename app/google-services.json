@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "840346732275",
+    "firebase_url": "https://freelancedev.firebaseio.com",
+    "project_id": "freelancedev",
+    "storage_bucket": "freelancedev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840346732275:android:8c36d162b9fdaf51d91986",
+        "android_client_info": {
+          "package_name": "com.example.freedev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBLTazEaHhP54tmwCdRRYznpkbSoiiZGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840346732275-5g4euq4vkot779sjdgbf2jnma2ejqd8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
